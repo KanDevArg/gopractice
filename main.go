@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/KanDevArg/gopractice/solid"
+	"github.com/KanDevArg/gopractice/playground"
 )
 
 func main() {
 	// races.Races()
-	solid.Solid()
+	// solid.Solid()
+	playground.PlayInitDeclaration()
 }
